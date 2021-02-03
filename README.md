@@ -5,7 +5,7 @@ All of the projects and works related to the course: Integrated Technologies for
 Create a class diagram that includes both classes (and the relationship between them) given at the bottom of this assignment. Also, propose another class for Intern by adding it  to your class diagram. The details of this class are entirely up to you.
 
 <hr/>
-________________________________________________________________________
+
 public class Employee
 {
    private Long id;
@@ -44,8 +44,7 @@ public class Employee
 
 }
 
-________________________________________________________________________
-
+<hr/>
 
 public class Manager extends Employee
 {
